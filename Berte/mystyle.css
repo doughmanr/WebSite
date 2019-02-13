@@ -1,0 +1,28 @@
+Body
+{
+	background-color:#000000;
+	background-image:url('purplespace.jpg');
+	background-repeat:repeat-y;
+	color:#FFFFFF;
+}
+a
+{
+	color:#D8D8D8;
+}
+div
+{
+	font-family: Verdana, Geneva, sans-serif;
+}
+div.header
+{
+	color:#00FF00;
+	Font-size:13pt
+}
+div.main
+{
+	font-size:10pt;
+	width:400px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
